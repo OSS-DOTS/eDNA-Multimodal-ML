@@ -1,0 +1,193 @@
+site_code,waterbody,place,canton,Biogeo,x_lv03,y_lv03,Altitude,Catchment
+CH_002_BS,Birs,NA,BS,Central Plateau,613496,267409,250,Rhein
+CH_007_BE,Emme,NA,BE,Central Plateau,609445,225330,444,Aare
+CH_009_SO,Limpach,NA,SO,Central Plateau,605997,220876,464,Aare
+CH_011_SO,Luessel,NA,SO,Jura Mountains,607744,250786,390,Rhein
+CH_012_OW,Sarner Aa,NA,OW,Northen Alps,662647,195819,461,Reuss
+CH_014_LU,Reuss,NA,LU,Central Plateau,664315,212930,430,Reuss
+CH_015_VS,Rhone,NA,VS,Western Alps,639626,128790,659,Rhone
+CH_016_VS,Vispa,NA,VS,Western Alps,634030,125900,650,Rhone
+CH_017_VS,Rhone,NA,VS,Western Alps,593300,118455,489,Rhone
+CH_018_VS,Dranse,NA,VS,Western Alps,570614,104466,495,Rhone
+CH_020_VD,Venoge,NA,VD,Central Plateau,532024,154048,384,Rhone
+CH_021_VD,Thielle,NA,VD,Central Plateau,538389,180827,432,Aare
+CH_022_VD,Broye,NA,VD,Central Plateau,566183,191947,440,Aare
+CH_023_SG,Steinach,NA,SG,Central Plateau,750755,262628,409,Rhein
+CH_025_SG,Sitter,NA,SG,Central Plateau,745537,258250,535,Rhein
+CH_026_SG,Thur,NA,SG,Central Plateau,732383,259206,475,Rhein
+CH_027_SG,Necker,NA,SG,Central Plateau,724298,250473,560,Rhein
+CH_028_SG,Glatt,NA,SG,Central Plateau,729400,256250,495,Rhein
+CH_032_AG,Pfaffnerrn,NA,AG,Central Plateau,634429,239712,405,Aare
+CH_033_AG,Wyna,NA,AG,Central Plateau,649071,246917,400,Aare
+CH_034_AG,Buenz,NA,AG,Central Plateau,656434,251249,380,Aare
+CH_035_AG,Surb,NA,AG,Central Plateau,662285,268508,335,Aare
+CH_036_AG,Sisslen,NA,AG,Central Plateau,641500,265545,310,Rhein
+CH_039_AG,Suhre,NA,AG,Central Plateau,648700,247570,380,Aare
+CH_040_ZH,Limmat,NA,ZH,Central Plateau,679330,250317,397,Limmat
+CH_041_ZH,Toess,NA,ZH,Central Plateau,685998,264982,358,Rhein
+CH_042_ZH,Sihl,NA,ZH,Central Plateau,682105,246843,410,Limmat
+CH_043_ZH,Glatt,NA,ZH,Central Plateau,678123,269619,339,Rhein
+CH_044_ZH,Glatt,NA,ZH,Central Plateau,691163,248330,436,Rhein
+CH_045_ZH,Monchaltorfer Aa,NA,ZH,Central Plateau,696928,240805,440,Rhein
+CH_046_ZH,Aa (Uster),NA,ZH,Central Plateau,694950,244939,441,Rhein
+CH_047_ZH,Reppisch,NA,ZH,Central Plateau,672809,252051,385,Limmat
+CH_048_ZH,Jona,NA,ZH,Central Plateau,705817,232990,428,Limmat
+CH_049_ZH,Furtbach,NA,ZH,Central Plateau,671505,255848,420,Limmat
+CH_050_ZH,Thur,NA,ZH,Central Plateau,693065,272893,359,Rhein
+CH_054_FR,Sionge,NA,FR,Central Plateau,572353,167639,684,Aare
+CH_058_BE,Kiesen,NA,BE,Central Plateau,613807,188906,616,Aare
+CH_059_BE,Guerbe,NA,BE,Central Plateau,603555,196625,511,Aare
+CH_060_BE,Sense,NA,BE,Central Plateau,593370,193000,549,Aare
+CH_063_BE,Langeten,NA,BE,Central Plateau,628600,232897,449,Aare
+CH_066_ZH,Toess,NA,ZH,Central Plateau,703828,255510,530,Rhein
+CH_093_LU,Kleine Emme,NA,LU,Central Plateau,664207,213237,432,Reuss
+CH_067_BL,Ergolz,NA,BL,Central Plateau,620950,264930,261,Rhein
+CH_068_JU,Sorne,NA,JU,Jura Mountains,593577,246286,410,Rhein
+CH_069_JU,Scheulte,NA,JU,Jura Mountains,599461,244150,465,Rhein
+CH_070_TG,Murg,NA,TG,Central Plateau,709510,269793,391,Rhein
+CH_071_TG,Lauche,NA,TG,Central Plateau,712330,264343,445,Rhein
+CH_072_TG,Chemibach,NA,TG,Central Plateau,721604,273121,419,Rhein
+CH_074_NW,Engelberger Aa,NA,NW,Northen Alps,672138,201829,456,Reuss
+CH_075_ZG,Lorze,NA,ZG,Central Plateau,674516,230487,390,Reuss
+CH_076_ZG,Lorze,NA,ZG,Central Plateau,680595,226069,421,Reuss
+CH_079_AG,Aabach,NA,AG,Central Plateau,655159,251068,365,Aare
+CH_084_JU,Allaine,NA,JU,Jura Mountains,567887,261272,365,Rhone
+CH_085_NE,Areuse,NA,NE,Jura Mountains,554430,199950,445,Aare
+CH_087_JU,Birs,NA,JU,Jura Mountains,597753,249364,386,Rhein
+CH_088_JU,Doubs,NA,JU,Jura Mountains,572066,243841,420,Rhone
+CH_089_SO,Duennern,NA,SO,Jura Mountains,634000,244025,404,Aare
+CH_091_GR,Inn,NA,GR,Eastern Alps,795320,165548,1650,Inn
+CH_092_BE,Kander,NA,BE,Northen Alps,616905,170230,620,Aare
+CH_094_BE,Suze,NA,BE,Jura Mountains,584763,220291,430,Aare
+CH_095_GR,Landquart,NA,GR,Northen Alps,765245,204813,560,Rhein
+CH_098_TI,Maggia,NA,TI,Southern Alps,703084,113851,200,Ticino
+CH_099_TI,Moesa,NA,TI,Southern Alps,724346,120161,235,Ticino
+CH_100_SZ,Muota,NA,SZ,Northen Alps,688257,206189,436,Reuss
+CH_101_UR,Reuss,NA,UR,Northen Alps,690654,191880,445,Reuss
+CH_106_BE,Saane,NA,BE,Central Plateau,585905,203017,463,Aare
+CH_111_AG,Wigger,NA,AG,Central Plateau,637194,238503,420,Aare
+CH_114_BE,Emme,NA,BE,Northen Alps,623712,199785,640,Aare
+CH_119_NE,Seyon,NA,NE,Jura Mountains,559534,207117,635,Aare
+CH_123_TI,Maggia,NA,TI,Southern Alps,692818,134910,622,Ticino
+CH_126_VD,Mentue,NA,VD,Central Plateau,545390,180900,448,Aare
+CH_127_VD,Talent,NA,VD,Central Plateau,532670,173050,439,Aare
+CH_128_VD,Promenthouse,NA,VD,Central Plateau,510084,140075,394,Rhone
+CH_129_VD,Boiron,NA,VD,Central Plateau,526273,149580,375,Rhone
+CH_130_VD,Aubonne,NA,VD,Central Plateau,520715,147440,395,Rhone
+CH_131_VD,Veveyse,NA,VD,Central Plateau,553755,145728,376,Rhone
+CH_132_VD,Grande Eau,NA,VD,Northen Alps,561082,130535,386,Rhone
+CH_133_BE,Simme,NA,BE,Northen Alps,612505,168441,640,Aare
+CH_134_BE,Birs,NA,BE,Jura Mountains,596389,240411,475,Rhein
+CH_135_AR,Urnaesch,NA,AR,Northen Alps,742503,251590,593,Rhein
+CH_136_AG,NA,NA,AG,NA,667041,248741,388,Reuss
+CH_137_AG,NA,NA,AG,NA,632608,265780,337,Rhein
+CH_140_FR,NA,NA,FR,NA,552620,184072,570,Aare
+CH_143_SG,NA,NA,SG,NA,764793,250889,400,Rhein
+CH_145_SH,NA,NA,SH,NA,674870,279824,404,Rhein
+CH_146_SH,NA,NA,SH,NA,681330,291094,526,Rhein
+CH_148_TG,NA,NA,TG,NA,744157,268389,450,Rhein
+CH_149_TI,NA,NA,TI,NA,714110,95680,400,Ticino
+CH_150_VD,NA,NA,VD,NA,545151,181272,452,Aare
+CH_151_VD,NA,NA,VD,NA,522923,158664,620,Rhone
+CH_152_VS,NA,NA,VS,NA,597057,121811,491,Rhone
+CH_154_LU,NA,NA,LU,NA,663861,224838,469,Aare
+Spez_001_AG,Fisibach,Fisibach,AG,Central Plateau,672799,269725,329,Rhein
+Spez_002_AG,Hottwilerbach,Wil,AG,Central Plateau,653833,267657,379,Rhein
+Spez_003_AG,Chrüzlibach,Böbikon,AG,Central Plateau,668000,267235,460,Rhein
+Spez_004_AG,Effingerbach,Bözen,AG,Jura Mountains,649151,261339,423,Rhein
+Spez_005_AG,Küntenerbach,Künten,AG,Central Plateau,667041,248741,389,Reuss
+Spez_006_AG,Dorfbach,Teufenthal,AG,Central Plateau,650906,242440,441,Aare
+Spez_007_AG,Büelmülikanal,Aristau,AG,Central Plateau,670564,239591,379,Reuss
+Spez_008_AI,Rödelbach,Rüte,AI,Northen Alps,750044,243579,790,Rhein
+Spez_009_AI,Horstbach,Schwende,AI,Northen Alps,752317,240483,890,Rhein
+Spez_010_AR,Sägebach,Trogen,AR,Northen Alps,754954,252403,827,Rhein
+Spez_011_AR,Mühlebach,Waldstatt,AR,Northen Alps,740717,247233,687,Rhein
+Spez_012_BE,LaChalière,Perrefitte,BE,Jura Mountains,590652,236000,722,Rhein
+Spez_013_BE,Mibach,Büren an der Aare,BE,Central Plateau,594883,220380,472,Aare
+Spez_014_BE,Walterswilbach,Ursenbach,BE,Central Plateau,626000,219064,626,Aare
+Spez_015_BE,Chrümmelisbach,Bätterkinden,BE,Central Plateau,605524,218950,464,Aare
+Spez_016_BE,Lyssbach,Schüpfen,BE,Central Plateau,593375,210977,486,Aare
+Spez_017_BE,Ballmoosbach,Zuzwil,BE,Central Plateau,603217,210481,547,Aare
+Spez_018_BE,Kanal Burgermoos,Lüscherz,BE,Central Plateau,580320,210009,437,Aare
+Spez_019_BE,Richigenbach,Worb,BE,Central Plateau,610773,196500,617,Aare
+Spez_020_BE,Wileringbächli,Neuenegg,BE,Central Plateau,589999,195101,578,Aare
+Spez_021_BE,Heubach,Rüschegg,BE,Northen Alps,596005,179311,1011,Aare
+Spez_022_BE,Gilsbach,Adelboden,BE,Northen Alps,607992,147813,1376,Aare
+Spez_023_BE,Scherlibach,Wald,BE,Central Plateau,600596,190860,760,Aare
+Spez_024_BL,Weierbach,Oberwil,BL,Central Plateau,608708,264282,337,Rhein
+Spez_025_BL,Wahlenbach,Laufen,BL,Jura Mountains,604827,251686,356,Rhein
+Spez_026_BS,Bettingerbach,Bettingen,BS,Central Plateau,616209,269234,325,Rhein
+Spez_027_FR,La Bainoz,Estavayer,FR,Central Plateau,552124,183577,582,Aare
+Spez_028_FR,Ruisseau de Lentigny,Corserey,FR,Central Plateau,566256,179335,685,Aare
+Spez_029_FR,La Longivue,Gibloux,FR,Central Plateau,569660,175150,679,Aare
+Spez_030_FR,La Corbassiere,Jorat-Menthue,VD,Central Plateau,544483,161222,863,Aare
+Spez_031_FR,Le Corjon,Châtel-Saint-Denis,FR,Northen Alps,560000,155145,848,Aare
+Spez_032_FR,Le Tatrel,Remaufens,FR,Central Plateau,555901,153269,707,Aare
+Spez_033_FR,Ruis Uleveage Grolley,Grolley,FR,Central Plateau,571450,188570,610,Aare
+Spez_034_GE,Le Creuson,Collex-Bossy,GE,Central Plateau,499219,126779,414,Rhone
+Spez_035_GE,Le Nant de Crues,Avully,GE,Central Plateau,489762,114861,353,Rhone
+Spez_036_GL,Namenlos - Linth-Ebene,Niederurnen,GL,Northen Alps,723340,221388,421,Limmat
+Spez_037_GL,Steinigerbach,Haslen,GL,Northen Alps,722510,204500,548,Limmat
+Spez_038_GR,Namenlos - Fläsch,Fläsch,GR,Northen Alps,756386,211402,489,Rhein
+Spez_039_GR,Namenlos - Valturtobel,Trimmis,GR,Northen Alps,761225,196682,570,Rhein
+Spez_040_GR,Namenlos - Domat/Ems,Domat/Ems,GR,Eastern Alps,754582,189121,577,Rhein
+Spez_041_GR,Stätzer Bach,Churwalden,GR,Eastern Alps,761502,181977,1353,Rhein
+Spez_042_GR,Clozza,Scuol,GR,Eastern Alps,818002,188000,1404,Inn
+Spez_043_JU,La Vendline,Vendlincourt,JU,Jura Mountains,578456,256366,438,Rhone
+Spez_044_JU,Ervaratte,La Baroche,JU,Jura Mountains,580262,251633,495,Rhone
+Spez_045_JU,La Scheulte,Corban,JU,Jura Mountains,602000,243957,504,Rhein
+Spez_046_LU,Dorfbach Geuensee,Geuensee,LU,Central Plateau,649365,227358,488,Aare
+Spez_047_LU,Rickenbach,Ebersecken,LU,Central Plateau,638021,225511,529,Aare
+Spez_048_LU,Ron,Root,LU,Central Plateau,671684,218253,414,Reuss
+Spez_049_LU,Tannebach,Buttisholz,LU,Central Plateau,648402,218357,547,Aare
+Spez_050_LU,Sellenbodenbach,Neuenkirch,LU,Central Plateau,658547,218259,519,Aare
+Spez_051_LU,Würzenbach,Luzern,LU,Central Plateau,668466,211506,434,Reuss
+Spez_052_NE,Seyon,Val-de-Ruz,NE,Jura Mountains,561900,211400,771,Aare
+Spez_053_NE,La Sorge,Valangin,NE,Jura Mountains,558703,207685,701,Aare
+Spez_054_NW,Gieslibach,Stansstad,NW,Northen Alps,668837,203168,439,Reuss
+Spez_055_OW,Grosse Schliere,Sarnen,OW,Northen Alps,652681,194630,1429,Reuss
+Spez_056_OW,Rütibach,Giswil,OW,Northen Alps,656688,189113,477,Reuss
+Spez_057_SG,Zapfenbach,Diepoldsau,SG,Central Plateau,764793,250889,408,Rhein
+Spez_058_SG,Mittlerer Seegraben,Oberriet,SG,Central Plateau,764600,251002,407,Rhein
+Spez_059_SG,Gerenbach,Rapperswil-Jona,SG,Central Plateau,708960,232043,423,Limmat
+Spez_060_SG,Grabserbach,Grabs,SG,Northen Alps,752000,227768,474,Rhein
+Spez_061_SG,Zufluss Sornbach,Niederbüren,SG,Central Plateau,734401,259121,495,Rhein
+Spez_062_SH,Fochtelgraben,Neunkirch,SH,Central Plateau,680652,282892,433,Rhein
+Spez_063_SH,Essitaalgraben,Hallau,SH,Central Plateau,673217,284034,429,Rhein
+Spez_064_SH,Hoobach,Hallau,SH,Central Plateau,676248,282463,414,Rhein
+Spez_065_SO,Aabach,Lostdorf,SO,Jura Mountains,638125,248685,461,Aare
+Spez_066_SO,Stuesslingerbach,Lostdorf,SO,Jura Mountains,639444,247929,427,Aare
+Spez_067_SO,Ramiswilerbach,Mümliswil-Ramiswil,SO,Jura Mountains,614000,243915,727,Aare
+Spez_068_SZ,Mächlerruns,Schübelbach,SZ,Northen Alps,713564,226804,412,Limmat
+Spez_069_SZ,Fischernbach,Alpthal,SZ,Northen Alps,696128,210963,1097,Limmat
+Spez_070_TG,Eschlisbach,Güttingen,TG,Central Plateau,740186,274345,403,Rhein
+Spez_071_TG,Tobelmülibach,Romanshorn,TG,Central Plateau,743951,270711,429,Rhein
+Spez_072_TG,Hünnikerbach,Bussnang,TG,Central Plateau,722000,267859,488,Rhein
+Spez_073_TG,Luetzelmurg,Bichelsee-Balterswil,TG,Central Plateau,712366,256640,587,Rhein
+Spez_074_TI,Ri delle Sponde,Maggia,TI,Southern Alps,692780,127634,377,Ticino
+Spez_075_TI,Isella,Locarno,TI,Southern Alps,711488,114534,198,Ticino
+Spez_076_TI,Canale principale,Gudo,TI,Southern Alps,717142,114042,207,Ticino
+Spez_077_TI,Laveggio,Mendrisio,TI,Southern Alps,718107,79486,329,Ticino
+Spez_078_UR,Giessen,Flüelen,UR,Northen Alps,689983,194700,434,Reuss
+Spez_079_UR,Riedertalerbach,Bürglen,UR,Northen Alps,694941,191995,748,Reuss
+Spez_080_VD,La Bioleyre,Corserey,VD,Central Plateau,562195,182050,508,Aare
+Spez_081_VD,Canal Occidental,Treycovagnes,VD,Central Plateau,536000,179111,433,Aare
+Spez_082_VD,Ruisseau des Combes,Chavornay,VD,Central Plateau,534074,174762,445,Aare
+Spez_083_VD,Le Combagnou,Pampigny,VD,Central Plateau,522923,158666,619,Rhone
+Spez_084_VD,Irence,Yens,VD,Central Plateau,522785,151608,477,Rhone
+Spez_085_VD,Namenlos - Chexhres,Puidoux,VD,Central Plateau,549000,147914,533,Rhone
+Spez_086_VD,Eau Noir,Perroy,VD,Central Plateau,518000,147046,398,Rhone
+Spez_087_VD,Petit Hongrin,Villeneuve,VD,Northen Alps,567000,139361,1363,Aare
+Spez_088_VS,Canal D'Uvrier,Sion,VS,Western Alps,597057,121811,492,Rhone
+Spez_089_VS,Ruisseau de Sensine,Conthey,VS,Western Alps,589098,122062,940,Rhone
+Spez_090_VS,La Tsatonire,Savièse,VS,Western Alps,590227,121005,535,Rhone
+Spez_091_VS,Torrent du Tsâblo,Nendaz,VS,Western Alps,590001,115014,1065,Rhone
+Spez_092_VS,Namenlos - Collonges,Collonges,VS,Western Alps,568899,113156,449,Rhone
+Spez_093_ZG,Littibach,Baar,ZG,Central Plateau,682921,228711,445,Reuss
+Spez_094_ZG,Dorfbach Oberägeri,Oberägeri,ZG,Northen Alps,689900,221806,811,Reuss
+Spez_095_ZH,Landbach,Wasterkingen,ZH,Central Plateau,678339,271375,371,Rhein
+Spez_096_ZH,Mülibach,Wildberg,ZH,Central Plateau,704000,251888,637,Rhein
+Spez_097_ZH,Dorfbach Maur,Maur,ZH,Central Plateau,693286,244408,443,Rhein
+Spez_098_ZH,Mostbach,Hinwil,ZH,Central Plateau,703774,239416,539,Rhein
+Spez_099_ZH,Lieburgerbach,Egg,ZH,Central Plateau,696713,238802,460,Rhein
+Spez_100_ZH,Chrebsbach,Thalwil,ZH,Central Plateau,684861,236842,549,Limmat
