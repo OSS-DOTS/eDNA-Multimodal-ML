@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 ###### DATA PREPROCESSING #####
 #---- eDNA sequence processing ----#
 # Load non-chimeric ASV sequences
-eDNA_seq = pd.read_csv('../Multimodal_ML_eDNA/Data/merged_seqtab_nochim.csv')
+eDNA_seq = pd.read_csv('Data/merged_seqtab_nochim.csv')
 eDNA_seq = pd.melt(eDNA_seq, id_vars='DNA_SEQ', var_name='sample', value_name='read_count')
 
 # Keep sequences > 10 reads
